@@ -1,0 +1,2 @@
+Yeahh, here's some text for an updated commit (originally it was empty here)
+UPDATE: I added this line so that I could test out 'git diff'
